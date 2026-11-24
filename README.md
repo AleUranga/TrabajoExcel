@@ -6,3 +6,4 @@ El analisis comienza con un briefing introduciendo el objetivo del analisis, KPI
 A continuación se introducen los KPI's concretados en cifras, y se exponen con mayor nivel de detalle
 Tras esta introducción podemos encontrar el proceso de transformación de los datos con sus correspondientes dimensiones, el analisis que se hace de los mismos y el dashboard
 Finalmente se añaden los insighst con aquellos conclusiones más relevantes del analisis que se ha realizado, y una última pestaña que registra aquellas cuestiones relevantes para la correcta comprensión del proceso
+Primer paso: establecer objetivo, preguntas de investigación e hipótesis
