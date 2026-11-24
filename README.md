@@ -10,3 +10,4 @@ Primer paso: establecer objetivo, preguntas de investigación e hipótesis
 Segundo paso: Transformación de los datos
 Tercer paso: Análisis de los datos
 Cuarto paso: Elaboración del dashboard y conclusiones del análisis
+Quinto paso: Storytelling. Crear una narrativa desde las preguntas hasta las conclusiones
