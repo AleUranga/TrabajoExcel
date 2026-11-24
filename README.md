@@ -8,3 +8,4 @@ Tras esta introducción podemos encontrar el proceso de transformación de los d
 Finalmente se añaden los insighst con aquellos conclusiones más relevantes del analisis que se ha realizado, y una última pestaña que registra aquellas cuestiones relevantes para la correcta comprensión del proceso
 Primer paso: establecer objetivo, preguntas de investigación e hipótesis
 Segundo paso: Transformación de los datos
+Tercer paso: Análisis de los datos
