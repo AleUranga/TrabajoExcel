@@ -9,3 +9,4 @@ Finalmente se añaden los insighst con aquellos conclusiones más relevantes del
 Primer paso: establecer objetivo, preguntas de investigación e hipótesis
 Segundo paso: Transformación de los datos
 Tercer paso: Análisis de los datos
+Cuarto paso: Elaboración del dashboard y conclusiones del análisis
