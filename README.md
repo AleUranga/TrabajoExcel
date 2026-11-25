@@ -1,5 +1,13 @@
-Insight 1: El producto más importante del que dependen más de la mitad de las ganacias son las bebidas
-Insight 2: La venta online y en tienda acumulan el 65% de los ingresos totales
-Insight 3: Más de la mitad de las gananias geneneradas por la venta online fueron de snacks
-Insight 4: El mayor tramo de descuento (15-20%) reporta un margen de ganancias significativamente menor que el resto
-Insight 5: El tramo de descuento (10-15%) genera mayor porcentaje de ganancia que el tramo (5-10%)
+Objetivo del analisis: ¿Cómo ha progresado nuestro negocio a lo largo de 2026?
+KPI 1: Ingreso total
+KPI 2: Ganancia total
+KPI 3: Porcentaje de margen de ganancia total
+El analisis comienza con un briefing introduciendo el objetivo del analisis, KPI's, preguntas e hipótesis. A continuación se incluye un diccionario de datos con aquellos conceptos elementales para la comprensión del análisis
+A continuación se introducen los KPI's concretados en cifras, y se exponen con mayor nivel de detalle
+Tras esta introducción podemos encontrar el proceso de transformación de los datos con sus correspondientes dimensiones, el analisis que se hace de los mismos y el dashboard
+Finalmente se añaden los insighst con aquellos conclusiones más relevantes del analisis que se ha realizado, y una última pestaña que registra aquellas cuestiones relevantes para la correcta comprensión del proceso
+Primer paso: establecer objetivo, preguntas de investigación e hipótesis
+Segundo paso: Transformación de los datos
+Tercer paso: Análisis de los datos
+Cuarto paso: Elaboración del dashboard y conclusiones del análisis
+Quinto paso: Storytelling. Crear una narrativa desde las preguntas hasta las conclusiones
