@@ -11,3 +11,9 @@ Segundo paso: Transformación de los datos
 Tercer paso: Análisis de los datos
 Cuarto paso: Elaboración del dashboard y conclusiones del análisis
 Quinto paso: Storytelling. Crear una narrativa desde las preguntas hasta las conclusiones
+
+Insight 1: El producto más importante, del que dependen más de la mitad de las ganancias, son las bebidas
+Insight 2: La venta online y en tienda acumulan el 65% de los ingresos totales
+Insight 3: Más de la mitad de las ganancias generadas por la venta online fueron de snacks
+Insight 4: El mayor tramo de descuento (15-20%) reporta un margen de ganancias significativamente menor que el resto
+Insight 5: El tramo de descuento (10-15%) genera mayor porcentaje de ganancia que el tramo (5-10%)
